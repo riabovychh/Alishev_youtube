@@ -1,4 +1,4 @@
-package lesson_35_AnonymusClasses;
+package lesson35_AnonymusClasses;
 
 interface AbleToEat {
     public void eat();
